@@ -41,7 +41,7 @@ All of the instructions are based on the validation on Ubuntu 18.04 LTS.
 
 Move to the project workspace folder first:
 
-    $ cd project3_final/
+    $ cd openvinotoolkit_prj3/
 
 Create the virtual environment for this application with the below steps:
 
