@@ -85,7 +85,7 @@ This model takes the pre-processed face frame as input and provide YPR angles of
 
     $ python /opt/intel/openvino/deployment_tools/tools/model_downloader/downloader.py --name "gaze-estimation-adas-0002"
 
-This model takes the pre-processes left and right eye frames along with YPR angles and provide gaze co-ordinates (x,y) based on the eye ball direction of movement. This application just passes this co-ordinates to MouseController which used PyAutoGUI library.
+This model takes the pre-processes left and right eye frames along with YPR angles and provide gaze co-ordinates (x,y) based on the eye ball direction of movement. This application just passes this co-ordinates to MouseController which uses PyAutoGUI library.
 
 After downloading these models the folder structure for the models folder will look similar to the given below.
 
